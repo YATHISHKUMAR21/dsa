@@ -1,3 +1,33 @@
 oops - object oriented programming
 oops is a paradigm / process in which 
 we explain all real world entity as an object
+
+object - collection of data (property) and behaviour
+
+
+student - student ki age ->property
+---------student wakes up at 7pm --> behaviour
+
+
+oops vs functional programming
+
+like c language is functional 
+data and behaviour are seperated
+hard to manage
+
+
+
+oops - collection of both data and behaviour : object
+easy to manage
+reusability
+effeiency , security etc
+
+
+oops 4 pillar 
+1.inheritance - reusability
+2.encapsulation - data hiding
+3.polymorphism
+4.abstraction -security
+
+
+
